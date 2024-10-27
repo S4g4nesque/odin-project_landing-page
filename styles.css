@@ -8,16 +8,15 @@ body {
     display: flex;
     flex-direction: column;
     flex: 1;
-    
+    align-content: center;
 }
 
-
-
-.content-column {
+.header {
     display: flex;
-    flex-direction: column;
-
+    justify-content: space-around;
 }
+
+
 
 .header,
 .body-1,
