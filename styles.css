@@ -46,6 +46,12 @@ body {
     gap: 40px;
 }
 
+.block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .header,
 .body-1,
 .footer {
