@@ -28,6 +28,26 @@ body {
     padding: 24px 400px;
 }
 
+/* fonts start */
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.title {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+.header-links,
+.title-info {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+/* fonts end */
+
+
 .header {
     display: flex;
     justify-content: space-between;
