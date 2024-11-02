@@ -66,6 +66,13 @@ body {
     gap: 40px;
 }
 
+.card-1 {
+    gap: 12px;
+    display: flex;
+    flex-direction: column;
+}
+
+
 .body-1-button {
     height: 32px;
     width: 112px;
