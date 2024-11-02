@@ -67,9 +67,13 @@ body {
 }
 
 .card-1 {
-    gap: 12px;
+    /* gap: 12px; */
     display: flex;
     flex-direction: column;
+}
+
+.title-info {
+    padding-bottom: 12px;
 }
 
 
