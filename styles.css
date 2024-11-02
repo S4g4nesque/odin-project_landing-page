@@ -82,7 +82,12 @@ body {
     border-radius: 5px;
 }
 
-
+.footer {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 14px 0;
+}
 
 .quote-ref {
     align-self: flex-end;
