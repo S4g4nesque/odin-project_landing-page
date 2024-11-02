@@ -63,6 +63,16 @@ body {
     padding: 48px 280px;
 }
 
+.body-4-card {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 72px;
+    background-color: #3882f6;
+    border-radius: 10px;
+}
+
+
+
 .quote-ref {
     align-self: flex-end;
 }
