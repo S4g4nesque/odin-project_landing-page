@@ -98,6 +98,12 @@ body {
     padding-bottom: 24px;
 }
 
+.info-blocks img {
+    border-radius: 10px;
+    border-color: #e5e7eb;
+    border-style: solid;
+}
+
 .body-3 {
     background-color: #e5e7eb;
     display: flex;
