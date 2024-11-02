@@ -104,6 +104,10 @@ body {
     border-style: solid;
 }
 
+.info-blocks div {
+    text-align: center;
+}
+
 .body-3 {
     background-color: #e5e7eb;
     display: flex;
