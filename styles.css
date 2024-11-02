@@ -66,6 +66,14 @@ body {
     gap: 40px;
 }
 
+.body-1-button {
+    height: 32px;
+    width: 112px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 5px;
+}
+
 .body-2 {
     display: flex;
     flex-direction: column;
