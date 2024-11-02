@@ -14,12 +14,18 @@ body {
 /* Group Padding for consistency and uniformity */
 .header,
 .body-1,
-.body-2,
+/* .body-2, */
 .body-3,
 .body-4,
-.info-blocks,
+/* .info-blocks, */
 .footer {
     padding: 12px 200px;
+}
+
+/* Group Padding larger */
+.body-2,
+.body-3 {
+    padding: 24px 400px;
 }
 
 .header {
