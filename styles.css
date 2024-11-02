@@ -66,9 +66,20 @@ body {
 .body-4-card {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 24px 72px;
     background-color: #3882f6;
     border-radius: 10px;
+}
+
+.body-4-button {
+    height: 32px;
+    width: 112px;
+    background-color: #3882f6;
+    border-style: solid;
+    border-color: #f9faf8;
+    color: #f9faf8;
+    border-radius: 5px;
 }
 
 
