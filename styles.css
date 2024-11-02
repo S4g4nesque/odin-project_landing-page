@@ -46,6 +46,10 @@ body {
     align-items: center;
 }
 
+.body-3 {
+    background-color: #e5e7eb;
+}
+
 .info-blocks {
     display: flex;
     gap: 40px;
@@ -64,9 +68,7 @@ body {
     color: white;
 }
 
-.body-3 {
-    background-color: #e5e7eb;
-}
+
 
 .header-links {
     margin: 0;
