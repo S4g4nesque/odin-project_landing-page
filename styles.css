@@ -56,8 +56,11 @@ body {
     background-color: #e5e7eb;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    
+    align-items: center;   
+}
+
+.body-4 {
+    padding: 48px 280px;
 }
 
 .quote-ref {
