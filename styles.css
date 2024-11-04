@@ -195,10 +195,6 @@ body {
     padding: 24px 0;
 }
 
-
-
-
-
 .header,
 .body-1,
 .footer {
@@ -206,9 +202,8 @@ body {
     color: white;
 }
 
-
-
 .header-links {
     margin: 0;
 }
 
+/* REVISIT FLEX SHORTHAND VALUES, REMOVE GROUP PADDING */
