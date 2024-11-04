@@ -134,6 +134,7 @@ body {
 .quote-ref {
     font-weight: 900;
     font-size: 18px;
+    align-self: flex-end;
 }
 
 .body-4 {
@@ -175,9 +176,7 @@ body {
     padding: 14px 0;
 }
 
-.quote-ref {
-    align-self: flex-end;
-}
+
 
 .info-blocks {
     display: flex;
