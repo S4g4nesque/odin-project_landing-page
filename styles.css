@@ -92,6 +92,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    
 }
 
 .title-body-2 {
@@ -105,6 +106,8 @@ body {
     display: flex;
     gap: 40px;
     padding-bottom: 32px;
+    /* flex-wrap: wrap;
+    align-items: center; */
 }
 
 .block {
@@ -182,6 +185,7 @@ body {
     border-color: #f9faf8;
     color: #f9faf8;
     border-radius: 5px;
+    flex-shrink: 0;
 }
 
 .footer {
