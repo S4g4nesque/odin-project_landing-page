@@ -141,6 +141,14 @@ body {
     color: #f9faf8;
 }
 
+.exclamation {
+    font-weight: 700;
+}
+
+.exclamation-info {
+    font-size: small;
+}
+
 .body-4-card {
     display: flex;
     justify-content: space-between;
