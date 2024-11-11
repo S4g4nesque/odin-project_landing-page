@@ -173,6 +173,8 @@ body {
     /* padding-left: 10vw;
     padding-right: 10vw; */
     color: #f9faf8;
+    display: flex;
+    justify-content: center;
 }
 
 .exclamation {
@@ -185,11 +187,13 @@ body {
 
 .body-4-card {
     display: flex;
+    flex: 1;
     justify-content: space-between;
     align-items: center;
     padding: 24px 72px;
     background-color: #3882f6;
     border-radius: 10px;
+    max-width: 1000px;
 }
 
 .body-4-button {
