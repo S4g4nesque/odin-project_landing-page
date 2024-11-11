@@ -15,7 +15,7 @@ body {
 .header,
 .body-1,
 .body-2,
-/* .body-3, */
+.body-3,
 .body-4,
 /* .info-blocks, */
 .footer {
@@ -149,10 +149,11 @@ body {
 
 .quote-container {
     display: flex;
+    flex: 1;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 900px;
+    max-width: 900px;
 }
 
 .quote {
