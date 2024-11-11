@@ -16,10 +16,13 @@ body {
 .body-1,
 .body-2,
 /* .body-3, */
-/* .body-4, */
+.body-4,
 /* .info-blocks, */
 .footer {
-    padding: 12px 200px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: clamp(10px, 10vw, 300px);
+    padding-right: clamp(10px, 10vw, 300px);
 }
 
 /* Group Padding larger */
@@ -167,8 +170,8 @@ body {
     /* padding: 48px 280px; */
     padding-top: 48px;
     padding-bottom: 48px;
-    padding-left: 10vw;
-    padding-right: 10vw;
+    /* padding-left: 10vw;
+    padding-right: 10vw; */
     color: #f9faf8;
 }
 
